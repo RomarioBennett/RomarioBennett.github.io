@@ -28,15 +28,18 @@ p {
 }
 
 .sidenav {
+    
     height: 100%;
-    width: 160px;
+    width: 270px;
     position: fixed;
     z-index: 1;
-    top: 0;
+    top: 59;
     left: 0;
-    background-color: #111;
+    background-color:  #e9bff9 ;
     overflow-x: hidden;
     padding-top: 20px;
+    margin-top:40px;
+    margin-left:40px;
   }
   
   .sidenav a {
