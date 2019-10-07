@@ -30,7 +30,7 @@ p {
 .sidenav {
     
     height: 100%;
-    width: 270px;
+    width: 350px;
     position: fixed;
     z-index: 1;
     top: 59;
@@ -180,3 +180,19 @@ p {
         margin-top:20px;
         font-weight:bold;
       }
+
+      div h2{
+
+        margin-left:640px;
+        margin-top:40px;
+        font-size:30px;
+      }
+
+      .bio {
+
+        margin-left:640px;
+      }
+      .line1,.y1 {
+          margin-left:640px;
+      }
+     
