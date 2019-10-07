@@ -187,12 +187,20 @@ p {
         margin-top:40px;
         font-size:30px;
       }
+      .wrkexp{
+          font-size:35px;
+      }
 
       .bio {
 
         margin-left:640px;
       }
-      .line1,.y1 {
+      .line1,.y1,.line2{
           margin-left:640px;
+
+          
       }
-     
+
+      .y1s1,.y1s2,.y2s1,.y2s2{
+          margin-left:867px;
+      }
