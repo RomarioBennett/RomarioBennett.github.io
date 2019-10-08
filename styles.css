@@ -32,8 +32,7 @@ p {
     height: 100%;
     width: 350px;
     position: fixed;
-    
-    z-index: 1;
+    z-index:1;
     top: 59;
     left: 0;
     background-color:  #e9bff9 ;
@@ -59,7 +58,7 @@ p {
     color: #f1f1f1;
   }
   
-  .main {
+   .main {
     margin-left: 160px; /* Same as the width of the sidenav */
     font-size: 28px; /* Increased text to enable scrolling */
     padding: 0px 10px;
@@ -68,7 +67,7 @@ p {
   @media screen and (max-height: 700px) {
     .sidenav {padding-top: 15px;
     height:auto;
-position:relative;}
+    position:relative;}
     .sidenav a {font-size: 18px;}
   
   }
